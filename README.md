@@ -2,7 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+#### Nur Ardina Anzilia Putri 
+#### 362358302044
+
+## program
+
+![code](assets/Screenshot%202024-10-01%20212307.png)
+![code](assets/Screenshot%202024-10-01%20212314.png)
+
 
 This project is a starting point for a Flutter application.
 
